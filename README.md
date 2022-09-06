@@ -1,4 +1,4 @@
-![download](https://user-images.githubusercontent.com/95545433/188537580-5a4bd5b9-b720-4e2b-9fa9-b2bcf8c24692.jpeg)
+![Gamr-_bnha-x-reader_-_Hiatus_](https://user-images.githubusercontent.com/95545433/188538315-05b50517-e039-48fc-b759-55c01bfd2f00.jpeg)
 
 ### Hi there 👋
 
@@ -9,4 +9,5 @@
 - 📫 How to reach me: diishasiing@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Tea over anything!
-TQDM
+
+##TQDM
