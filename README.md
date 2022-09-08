@@ -9,6 +9,6 @@
 - 💬 Ask me anything about Anime (& it's not a Cartoon) 
 - 📫 How to reach me: diishasiing@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Tea over anything!
+- ⚡ Fun fact: Sasuke over anything!
 
 ## TQDM
