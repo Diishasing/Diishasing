@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on Dep learning and computer vision, passionated to make useful applications.
+- 🔭 I’m currently working on Deep learning and Computer Vision, passionated to make useful applications.
 - 🌱 I’m currently learning MLops & Data Structures & Algorithms.
 - 👯 I’m looking to collaborate on various research work related to Deep Learning.
 - 💬 Ask me anything about Anime (& it's not a Cartoon) 
