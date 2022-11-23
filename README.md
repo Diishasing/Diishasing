@@ -3,7 +3,8 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on Deep learning and Computer Vision, passionated to make useful applications.
+- 🔭 I’m currently working on Deep learning and Computer Vision and I am passionate about making useful applications.
+
 - 🌱 I’m currently learning MLops & Data Structures & Algorithms.
 - 👯 I’m looking to collaborate on various research work related to Machine Learning and Computer Vision.
 - 💬 Ask me anything about Vision Transformers (& anime :p) 
