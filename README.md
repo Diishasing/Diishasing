@@ -40,7 +40,5 @@
 <!-- ![linkedin](https://user-images.githubusercontent.com/95545433/203511551-fb7a2bf2-2bac-49b2-914c-6b999fcc5548.svg) -->
 
 ![github](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=GitHub&logoColor=Black)
-
 ![linkedin](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=LinkedIn&logoColor=Black)
-
 ![instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=Instagram&logoColor=Black)
