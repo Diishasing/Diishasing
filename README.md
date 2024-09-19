@@ -1,4 +1,4 @@
-![𝐍𝐎𝐓𝐈𝐂𝐄 𝐌𝐄 𝐂𝐎𝐋𝐃 𝐇𝐄𝐀𝐑𝐓 𝐂𝐇𝐀𝐍┆𝐇𝐀𝐈𝐊𝐘𝐔𝐔 ✓ - 𝐍𝐎𝐓𝐈𝐂𝐄 𝐌𝐄! 大好き](https://user-images.githubusercontent.com/95545433/203517052-32ed61e2-96e2-409b-aba2-167677e5f3da.gif)
+<p align = 'center'><img src=https://user-images.githubusercontent.com/95545433/203517052-32ed61e2-96e2-409b-aba2-167677e5f3da.gif></p>
 
 
 ### Hi there 👋
